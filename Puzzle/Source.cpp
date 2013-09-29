@@ -1,6 +1,9 @@
 #include <iostream>
 #include <string>
-
+#include <vector>
+#include <list>
+#include <algorithm>
+#include <set>
 using namespace std;
 
 
@@ -54,4 +57,30 @@ void remove_substring(const string &s, int p, int n) {
 		cout<<s.substr(0,p -1 ) << s.substr(p+n-1);
 	}
     
+}
+
+
+
+void get_common_courses(const vector<int> &courses1, const vector<int> &courses2) {
+    // Write your code here
+    // To print results to the standard output you can use the cout stream
+    // Example: cout << "Hello world!";
+	set<int> result ;
+
+	
+		for(int i =0; i <  (int)courses1.size();i++)
+		{
+			for(int j = 0; j < (int)courses2.size();j++)
+			{
+				if(courses1.at(i) == courses2.at(j))
+					result.insert(result.begin(),courses1.at(i));
+			}
+		}
+		
+	for(set<int>::iterator it= result.begin() ;it != result.end();it++)
+	{
+		cout<<*it<<endl;
+	}
+	
+	
 }
