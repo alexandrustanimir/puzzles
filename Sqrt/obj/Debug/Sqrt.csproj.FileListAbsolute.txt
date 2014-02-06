@@ -1,0 +1,6 @@
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\Sqrt\bin\Debug\Sqrt.exe.config
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\Sqrt\bin\Debug\Sqrt.exe
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\Sqrt\bin\Debug\Sqrt.pdb
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\Sqrt\obj\Debug\Sqrt.csprojResolveAssemblyReference.cache
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\Sqrt\obj\Debug\Sqrt.exe
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\Sqrt\obj\Debug\Sqrt.pdb

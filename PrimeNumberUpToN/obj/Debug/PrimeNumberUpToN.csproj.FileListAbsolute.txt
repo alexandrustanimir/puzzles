@@ -1,0 +1,6 @@
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\PrimeNumberUpToN\obj\Debug\PrimeNumberUpToN.csprojResolveAssemblyReference.cache
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\PrimeNumberUpToN\bin\Debug\PrimeNumberUpToN.exe.config
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\PrimeNumberUpToN\bin\Debug\PrimeNumberUpToN.exe
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\PrimeNumberUpToN\bin\Debug\PrimeNumberUpToN.pdb
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\PrimeNumberUpToN\obj\Debug\PrimeNumberUpToN.exe
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\PrimeNumberUpToN\obj\Debug\PrimeNumberUpToN.pdb

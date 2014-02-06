@@ -1,0 +1,5 @@
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\GreatestProd\bin\Debug\GreatestProd.exe.config
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\GreatestProd\bin\Debug\GreatestProd.exe
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\GreatestProd\bin\Debug\GreatestProd.pdb
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\GreatestProd\obj\Debug\GreatestProd.exe
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\GreatestProd\obj\Debug\GreatestProd.pdb

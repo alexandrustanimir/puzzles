@@ -1,0 +1,6 @@
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\IntToBinary\bin\Debug\IntToBinary.exe.config
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\IntToBinary\bin\Debug\IntToBinary.exe
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\IntToBinary\bin\Debug\IntToBinary.pdb
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\IntToBinary\obj\Debug\IntToBinary.csprojResolveAssemblyReference.cache
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\IntToBinary\obj\Debug\IntToBinary.exe
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\IntToBinary\obj\Debug\IntToBinary.pdb

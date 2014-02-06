@@ -1,0 +1,5 @@
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\TweetsPerSecond\bin\Debug\TweetsPerSecond.exe.config
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\TweetsPerSecond\bin\Debug\TweetsPerSecond.exe
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\TweetsPerSecond\bin\Debug\TweetsPerSecond.pdb
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\TweetsPerSecond\obj\Debug\TweetsPerSecond.exe
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\TweetsPerSecond\obj\Debug\TweetsPerSecond.pdb

@@ -1,0 +1,5 @@
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\BalancedBrackets\bin\Debug\BalancedBrackets.exe.config
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\BalancedBrackets\bin\Debug\BalancedBrackets.exe
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\BalancedBrackets\bin\Debug\BalancedBrackets.pdb
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\BalancedBrackets\obj\Debug\BalancedBrackets.exe
+C:\Users\ALexandru\Source\Repos\Code Puzzles\Puzzles\BalancedBrackets\obj\Debug\BalancedBrackets.pdb
